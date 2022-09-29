@@ -1,0 +1,17 @@
+*.iml
+.gradle
+.idea
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+*.apk
+channels
+*.hprof
+/JZFenQi/debug
+/JZFenQi/release
+channelExtra
+channel_config.py
+

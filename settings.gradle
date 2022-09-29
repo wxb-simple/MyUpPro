@@ -1,0 +1,2 @@
+include ':app', ':design_patterns'
+rootProject.name = "My Application"
